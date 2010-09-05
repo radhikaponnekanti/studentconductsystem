@@ -1,4 +1,4 @@
-  * [Welcome Student Conduct Information System]
+  * [studentconductsystem Student Conduct Information System]
   * [Desc  Description]
   * [Objec Objectives of the System]
   * [PotCust Potential Customers]
