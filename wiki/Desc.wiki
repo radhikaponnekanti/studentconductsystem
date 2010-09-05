@@ -1,4 +1,3 @@
-
-= Introduction =
-
-The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication.
+=*Description*=
+----
+*The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication.*
