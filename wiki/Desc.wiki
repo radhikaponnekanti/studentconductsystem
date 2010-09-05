@@ -1,9 +1,12 @@
 #sidebar Desc
-  * [Welcome Student Conduct Information System]
+  * [Welcome S.C.I.S]
   * [Desc  Description]
   * [Objec Objectives of the System]
   * [PotCust Potential Customers]
   * [Benif Why Buy/Use the System]
+
+
+
 
 =*Description*=
 ----
