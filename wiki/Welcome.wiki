@@ -1,5 +1,4 @@
-#sidebar TableOfContents
-* [Welcome Student Conduct Information System]
+#sidebar * [Welcome Student Conduct Information System]
    * [Desc  Description]
    * [Objec Objectives of the System]
    * [PotCust Potential Customers]
