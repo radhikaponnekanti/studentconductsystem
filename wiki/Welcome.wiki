@@ -1,6 +1,6 @@
 * [Welcome Student Conduct Information System]
-   * [Desc  Description]
-   * [Objec Objectives of the System]
-   * [PotCust Potential Customers]
-   * [Benif Why Buy/Use the System]
+* [Desc  Description]
+* [Objec Objectives of the System]
+* [PotCust Potential Customers]
+* [Benif Why Buy/Use the System]
    
