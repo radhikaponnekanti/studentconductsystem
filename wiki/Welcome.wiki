@@ -1,6 +1,5 @@
 #sidebar Welcome
 
-  * [Welcome S.C.I.S]
   * [Desc  Description]
   * [Objec Objectives of the System]
   * [PotCust Potential Customers]
