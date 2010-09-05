@@ -1,3 +1,4 @@
+#summary Potential Customers
 =*Potential Customers*=
 ----
 *Potential customers for the Student Conduct Information System are colleges and universities, specifically residence life and student conduct staff, or those at the college or university that deal with student conduct.*
