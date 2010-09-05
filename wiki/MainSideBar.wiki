@@ -1,4 +1,4 @@
-#sidebar TableOfContents
+
 
 * [HTMLElements Student Conduct Information System]
    * [HTMLElements Description]
