@@ -1,9 +1,4 @@
 #sidebar Welcome
-  * [Welcome S.C.I.S]
-  * [Desc  Description]
-  * [Objec Objectives of the System]
-  * [PotCust Potential Customers]
-  * [Benif Why Buy/Use the System]
 
 = *Objectives of the System* =
 ----
