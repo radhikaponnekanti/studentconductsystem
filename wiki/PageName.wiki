@@ -1,5 +1,4 @@
 * [HTMLElements Student Conduct Information System]
-
    * [HTMLElements Description]
    * [HTMLElements Objectives of the System]
    * [HTMLElements Potential Customers]
