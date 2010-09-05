@@ -1,8 +1,6 @@
-
-
-* [HTMLElements Student Conduct Information System]
-   * [HTMLElements Description]
-   * [HTMLElements Objectives of the System]
-   * [HTMLElements Potential Customers]
-   * [HTMLElements Why Buy/Use the System]
+* [SCISystem Student Conduct Information System]
+   * [Desc Description]
+   * [Objec Objectives of the System]
+   * [PotCust Potential Customers]
+   * [Benif Why Buy/Use the System]
       
