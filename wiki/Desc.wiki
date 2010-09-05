@@ -1,14 +1,6 @@
 #labels Featured
-#The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication..
+
 
 = Introduction =
 
 The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
