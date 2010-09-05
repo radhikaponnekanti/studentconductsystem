@@ -3,11 +3,10 @@
 * [HTMLElements Student Conduct Information System]
 
    * [HTMLElements Description]
-      * [HTMLElements The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication.]
+      
    * [HTMLElements Objectives of the System]
-      * [HTMLElements The disciplinary process at a college or university can be complex and many staff members are involved. The main objective of this system is to provide a comprehensive workflow designed to facilitate communication of infractions and reduce paperwork. In the end, the users should be spending less time on administration and more time on making student and academic life better.]
+      
    * [HTMLElements Potential Customers]
-      * [HTMLElements Potential customers for the Student Conduct Information System are colleges and universities, specifically residence life and student conduct staff, or those at the college or university that deal with student conduct.]
+      
    * [HTMLElements Why Buy/Use the System]
-      * [HTMLElements The Student Conduct Information System is a completely paperless online system accessible from anywhere at anytime. The information is stored in a central location thus guaranteeing that it will be consistent and accurate. Customers will be freed from their paper routines and/or spreadsheet labyrinths.]
-   
+      
