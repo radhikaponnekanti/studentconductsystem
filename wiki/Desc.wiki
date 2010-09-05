@@ -1,3 +1,5 @@
+#summary One-sentence summary of this page.
+
 #sidebar Welcome
 
 
@@ -5,5 +7,3 @@
 ----
 *The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication.*
 
-
-#summary One-sentence summary of this page.
