@@ -1,2 +1,1 @@
-= Team Skill 1: Analyzing the Problem =
-
+== Team Skill 1: Analyzing the Problem ==
