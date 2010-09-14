@@ -8,7 +8,7 @@
 
 <hr>
 
-==1.0 Business Objectives for the Student Conduct Information System==
+==1.0 Business Objectives==
 
 The disciplinary process at a college or university can be complex and many staff members are involved. The main objective of this system is to provide a comprehensive workflow designed to facilitate communication of infractions and reduce paperwork. In the end, the users should be spending less time on administration and more time on making student and academic life better. 
 
