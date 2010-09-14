@@ -21,9 +21,9 @@ The disciplinary process at a college or university can be complex and many staf
 <li>The system needs to be accessible from anywhere at anytime</li>
 <li>The data in the system needs to be secure</li>
 <li>The data in the system needs to be stored in a central location</li>
-<li>Ability to create and track Incident Reports</li>
-<li>Ability to create and track Incidents</li>
-<li>Ability to create and track Cases</li>
+<li>Ability to create and track incident reports</li>
+<li>Ability to create and track incidents</li>
+<li>Ability to create and track cases through adjudication(charges, sanctions, appeals)</li>
 </ul>
 
 ===2.1 Process Flows===
