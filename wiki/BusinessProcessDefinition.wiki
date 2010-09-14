@@ -6,11 +6,22 @@
 <h3>Table of Contents</h3>
 <wiki:toc max_depth="4" />
 
+<hr>
+
 ==1.0 Business Objectives for the Student Conduct Information System==
 
 The disciplinary process at a college or university can be complex and many staff members are involved. The main objective of this system is to provide a comprehensive workflow designed to facilitate communication of infractions and reduce paperwork. In the end, the users should be spending less time on administration and more time on making student and academic life better. 
 
+<hr>
+
 ==2.0 Business Requirements==
+
+<ul>
+<li>Completely paperless system</li>
+<li>The system needs to be accessible from anywhere at anytime</li>
+<li>The data in the system needs to be secure</li>
+<li>The data in the system needs to be stored in a central location</li>
+</ul>
 
 ===2.1 Process Flows===
 
@@ -38,8 +49,9 @@ The disciplinary process at a college or university can be complex and many staf
 
 ====2.4.2 Technology Risks====
 
+<hr>
 ==3.0 Assumptions==
-
+<hr>
 ==4.0 Issues==
-
+<hr>
 ==5.0 Project Success Criteria==
