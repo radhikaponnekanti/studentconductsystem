@@ -55,15 +55,9 @@ The following table should contain a list of everyone who will play a role in th
 
 ===2.3 Business Impact===
 
-====2.3.1 Metrics to Measure Business Impact====
+====2.3.1 Business Dependencies====
 
-=====2.3.1.2 Responsibility of Metrics Collection & Analysis=====
-
-=====2.3.1.3 Business / System Metrics Communication Plan=====
-
-====2.3.2 Business Dependencies====
-
-====2.3.3 Business Risks====
+====2.3.2 Business Risks====
 
 ===2.4 Technology Impact===
 
