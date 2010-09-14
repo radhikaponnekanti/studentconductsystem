@@ -2,8 +2,8 @@
 
 = Business Process Definition =
 
- 
-1.0 Business Objectives for the Student Conduct Information System
+ <ul>
+<li>1.0 Business Objectives for the Student Conduct Information System</li>
 2.0 Business Requirements
 2.1 Process Flows
 2.1.1 Existing or “As Is” Process Flow and Process Steps
@@ -21,3 +21,4 @@
 3.0 Assumptions
 4.0 Issues
 5.0 Project Success Criteria
+</ul>
