@@ -1,8 +1,10 @@
 <wiki:comment>Business process definition (Assignment #2 - due 9/20/2010)</wiki:comment>
 
-<wiki:toc max_depth="4" />
 
-= Business Process Definition and Requirements =
+<h1>Business Process Definition and Requirements</h1>
+
+<h3>Table of contents</h3
+<wiki:toc max_depth="4" />
 
 ==1.0 Business Objectives for the Student Conduct Information System==
 
