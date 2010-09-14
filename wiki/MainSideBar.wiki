@@ -1,1 +1,1 @@
-* [businessprocessdefinition Business Process Definition]
+* [BusinessProcessDefinition Business Process Definition]
