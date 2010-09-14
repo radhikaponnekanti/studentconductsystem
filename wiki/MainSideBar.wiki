@@ -1,12 +1,7 @@
 * [http://code.google.com/p/studentconductsystem/ Home]
  * [BusinessProcessDefinition Business Process Definition and Requirements]
- * [BusinessProcessDefinition 1.0 Business Objectives]
-
- * [BusinessProcessDefinition Business Process Definition and Requirements]
     * [BusinessProcessDefinition 1.0 Business Objectives]
     * [BusinessProcessDefinition 2.0 Business Requirements]
-
-
     * [BusinessProcessDefinition 3.0 Assumptions]
     * [BusinessProcessDefinition 4.0 Issues]
     * [BusinessProcessDefinition 5.0 Project Success Criteria]
