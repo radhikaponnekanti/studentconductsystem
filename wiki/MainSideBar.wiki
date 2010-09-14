@@ -1,5 +1,5 @@
    * [BusinessProcessDefinition Business Process Definition and Requirements]
-    * [BusinessProcessDefinition#1.0_Business_Objectives_for_the_Student_Conduct_Information_System]
+    * [BusinessProcessDefinition#1.0_Business_Objectives_for_the_Student_Conduct_Information_System 1.0]
     * [ArticlesStyle CSS and style]
     * [ArticlesTips Tips and tricks]
   * [DOMReference DOM reference]
