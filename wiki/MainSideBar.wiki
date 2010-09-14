@@ -2,11 +2,11 @@
  * [BusinessProcessDefinition Business Process Definition and Requirements]
  * [BusinessProcessDefinition 1.0 Business Objectives]
 
- * [Articles HOWTO articles]
-    * [ArticlesXSS Web security]
-    * [ArticlesDom DOM manipulation]
-    * [ArticlesStyle CSS and style]
-    * [ArticlesTips Tips and tricks]
-  * [DOMReference DOM reference]
-  * [HTMLElements HTML reference]
-  * [CSSReference CSS reference]
+ * [BusinessProcessDefinition Business Process Definition and Requirements]
+    * [BusinessProcessDefinition 1.0 Business Objectives]
+    * [BusinessProcessDefinition 2.0 Business Requirements]
+
+
+    * [BusinessProcessDefinition 3.0 Assumptions]
+    * [BusinessProcessDefinition 4.0 Issues]
+    * [BusinessProcessDefinition 5.0 Project Success Criteria]
