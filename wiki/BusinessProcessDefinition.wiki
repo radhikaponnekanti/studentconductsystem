@@ -4,7 +4,7 @@
 <h2>Business Process Definition and Requirements</h2>
 
 <h3>Table of Contents</h3>
-<wiki:toc max_depth="5" />
+<wiki:toc max_depth="4" />
 
 <hr>
 
@@ -31,26 +31,26 @@ The disciplinary process at a college or university can be complex and many staf
 
 ===2.2 New Process Requirements===
 
-======Business Requirements======
+=====Business Requirements=====
 e.g. “need to provide a 30 day turnaround from application to approval.”
 
-======System Requirements======
+=====System Requirements=====
 e.g. “24 by 7 system availability 6days per week”
 
-======Reporting Requirements======
+=====Reporting Requirements=====
 e.g. “Report to produce a count of new applications by state for each week by application type”
 
-======Data Requirements======
+=====Data Requirements=====
 e.g. “based on fields in the report, need specific data elements from the following data sources “
 
-======Security Requirements======
+=====Security Requirements=====
 The need for securing the system to be developed should be stated in section including levels of access that can be granted
 e.g. “headquarters’ staff may have read only access the following specific data measures”
 
-======Personnel Requirements======
+=====Personnel Requirements=====
 The following table should contain a list of everyone who will play a role in the development of the system.		
 		
-======Support Requirements======
+=====Support Requirements=====
 The following table should contain a list of everyone who will play a role in the ongoing maintenance of the system following implementation.
 
 ===2.3 Business Impact===
