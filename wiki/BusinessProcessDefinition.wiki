@@ -3,6 +3,9 @@
 <wiki:toc max_depth="4" />
 
 = Business Process Definition and Requirements =
+
+Describe the specific high level objectives for the project as it relates to the business process. As background description of the challenge or “pain” or deficiency is helpful in providing understanding of the reason for the proposed business objectives. 
+
 ==1.0 Business Objectives for the Student Conduct Information System==
 ==2.0 Business Requirements==
 ===2.1 Process Flows===
