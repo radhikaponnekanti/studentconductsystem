@@ -25,9 +25,9 @@ The disciplinary process at a college or university can be complex and many staf
 
 ===2.1 Process Flows===
 
-====2.1.1 Existing or “As Is” Process Flow and Process Steps====
+====2.1.1 Existing or As Is Process Flow and Process Steps====
 
-====2.1.2 Proposed or “To Be” Process Flow and Process Steps====
+====2.1.2 Proposed or To Be Process Flow and Process Steps====
 
 ===2.2 New Process Requirements===
 
