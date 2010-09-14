@@ -4,6 +4,3 @@
     * [BusinessProcessDefinition#3.0_Assumptions 3.0 Assumptions]
     * [BusinessProcessDefinition#4.0_Issues 4.0 Issues]
     * [BusinessProcessDefinition#5.0_Project_Success_Criteria 5.0 Project Success Criteria]
-  * [DOMReference DOM reference]
-  * [HTMLElements HTML reference]
-  * [CSSReference CSS reference]
