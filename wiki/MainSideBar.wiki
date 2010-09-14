@@ -4,11 +4,9 @@
      * [BusinessProcessDefinition#2.1_Process_Flows 2.1 Process Flows]
       * [BusinessProcessDefinition#2.1.1_Existing_or_As_Is_Process_Flow_and_Process_Steps 2.1.1 Existing or As Is Process Flow and Process Steps]
       * [BusinessProcessDefinition#2.1.2_Proposed_or_To_Be_Process_Flow_and_Process_Steps 2.1.2 Proposed or To Be Process Flow and Process Steps]
-
      * [BusinessProcessDefinition#2.2_New_Process_Requirements 2.2 New Process Requirements]
      * [BusinessProcessDefinition#2.3_Business_Impact 2.3 Business Impact]
       * [BusinessProcessDefinition#2.3.1_Metrics_to_Measure_Business_Impact 2.3.1 Metrics to Measure Business Impact]
-
     * [BusinessProcessDefinition#3.0_Assumptions 3.0 Assumptions]
     * [BusinessProcessDefinition#4.0_Issues 4.0 Issues]
     * [BusinessProcessDefinition#5.0_Project_Success_Criteria 5.0 Project Success Criteria]
