@@ -1,2 +1,2 @@
-Student Conduct Information System Home
+ * [Home http://code.google.com/p/studentconductsystem/]
  * [BusinessProcessDefinition Business Process Definition and Requirements]
