@@ -57,7 +57,7 @@ The following table should contain a list of everyone who will play a role in th
 The following table should contain a list of everyone who will play a role in the ongoing maintenance of the system following implementation.
 
 ===2.3 Business Impact===
-By using a computer based system report handling will be much more efficient and conducive to all parties involved. The time it takes to process incident reports will be dramatically reduced, since the majority of time spent during processing is closely related to documentation handling. Furthermore, a system with increased accessibility and organization will enhance case reviewing performance. Faster processing will lead to quicker scheduling requests and more frequent sanction tracking updates.
+By using a computer based system, report handling will be much more efficient and conducive to all parties involved. The time it takes to process incident reports will be dramatically reduced, given the majority of time spent during processing is closely related to documentation handling. Furthermore, a system with increased accessibility and organization will enhance case reviewing performance. Faster processing will lead to quicker scheduling requests and more frequent sanction tracking updates.
 
 ====2.3.1 Metrics to Measure Business Impact====
 <ul>
@@ -69,14 +69,36 @@ By using a computer based system report handling will be much more efficient and
 </ul>
 
 ====2.3.2 Business Dependencies====
+<ul>
+<li>Users must enter accurate incident report information into program.</li>
+<li>Users must be trained in program functionality.</li>
+<li>IT maintenance must be trained in program specific troubleshooting.</li>
+</ul>
 
 ====2.3.3 Business Risks====
+<ul>
+<li>Current employees unable to assimilate new system in a timely manner.</li>
+<li>Case reviewing unable to keep up with incident processing.</li>
+</ul>
 
 ===2.4 Technology Impact===
+<ul>
+<li>Department copy machine usage will decrease significantly.</li>
+<li>Fax machines will no longer be main entity for transferring documentation.</li>
+<li>Computer usage will increase and become prominent.</li>
+</ul>
 
 ====2.4.1 Technology Dependencies====
+<ul>
+<li>Up-to-date working computers and internet access. </li>
+</ul>
 
 ====2.4.2 Technology Risks====
+<ul>
+<li>Server crashes</li>
+<li>Computer crashes </li>
+<li>Network security breach</li>
+</ul>    
 
 <hr>
 ==3.0 Assumptions==
