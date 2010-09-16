@@ -102,9 +102,21 @@ By using a computer based system report handling will be much more efficient and
 
 <hr>
 ==3.0 Assumptions==
-<hr>
 The following assumptions are essential to the previous business impact predictions.
 
+<ul>
+<li>User friendly interface.</li>
+<li>System is accessible outside the work place.</li>
+</ul>
+
+<hr>
 ==4.0 Issues==
+The accuracy of records and update data depends upon the user's input.
+
 <hr>
 ==5.0 Project Success Criteria==
+<ul>
+<li>Requirements must be presented through clear and understandable documentation and explain how these particular requirements lead to project goals.</li>
+<li>Installation process must be completed within one month.</li>
+<li>Onsite training provided during installation process.</li>
+</ul>
