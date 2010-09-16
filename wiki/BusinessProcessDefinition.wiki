@@ -57,7 +57,7 @@ The following table should contain a list of everyone who will play a role in th
 The following table should contain a list of everyone who will play a role in the ongoing maintenance of the system following implementation.
 
 ===2.3 Business Impact===
-By using a computer based system, report handling will be much more efficient and conducive to all parties involved. The time it takes to process incident reports will be dramatically reduced, given the majority of time spent during processing is closely related to documentation handling. Furthermore, a system with increased accessibility and organization will enhance case reviewing performance. Faster processing will lead to quicker scheduling requests and more frequent sanction tracking updates.
+By using a computer based system report handling will be much more efficient and conducive to all parties involved. The time it takes to process incident reports will be dramatically reduced, since the majority of time spent during processing is closely related to documentation handling. Furthermore, a system with increased accessibility and organization will enhance case reviewing procedures, scheduling, and sanction tracking updates.
 
 ====2.3.1 Metrics to Measure Business Impact====
 <ul>
@@ -103,6 +103,8 @@ By using a computer based system, report handling will be much more efficient an
 <hr>
 ==3.0 Assumptions==
 <hr>
+The following assumptions are essential to the previous business impact predictions.
+
 ==4.0 Issues==
 <hr>
 ==5.0 Project Success Criteria==
