@@ -45,9 +45,11 @@ http://mysite.verizon.net/jskar/after_chart.jpg
 
 ===2.2 New Process Requirements===
 
+<wiki:comment>
 =====Business Requirements=====
 e.g. “need to provide a 30 day turnaround from application to approval.”
 ????????????????????
+</wiki:comment>
 
 =====System Requirements=====
 The application must run on all standards compliant web browsers for all operating systems. System must also be available for use 24 hours a day, 7 days a week.  
