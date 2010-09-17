@@ -1,6 +1,10 @@
 <wiki:comment>Business process definition (Assignment #2 - due 9/20/2010)</wiki:comment>
 
 <wiki:comment>
+I commented out everything on this page so that our project could not be copied.
+</wiki:comment>
+
+<wiki:comment>
 <h2>Business Process Definition and Requirements</h2>
 
 <h3>Table of Contents</h3>
