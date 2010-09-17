@@ -55,8 +55,17 @@ e.g. “need to provide a 30 day turnaround from application to approval.”
 The application must run on all standards compliant web browsers for all operating systems. System must also be available for use 24 hours a day, 7 days a week.  
 
 =====Data Requirements=====
-e.g. “based on fields in the report, need specific data elements from the following data sources “
-?????????????????????????????
+Incident
+<ul>
+<li>Students involved</li>
+<li>Location</li>
+</ul>
+
+Case
+<ul>
+<li>Charges, sanctions, fines, and restitution</li>
+</ul>
+
 
 =====Security Requirements=====
 The data needs to be delivered securely over the web using SSL and the application must be secured and only available from behind the company firewall.
