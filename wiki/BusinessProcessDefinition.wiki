@@ -4,7 +4,6 @@
 I commented out everything on this page so that our project could not be copied.
 </wiki:comment>
 
-<wiki:comment>
 <h2>Business Process Definition and Requirements</h2>
 
 <h3>Table of Contents</h3>
@@ -132,4 +131,3 @@ The accuracy of records and update data depends upon the user's input.
 <li>Installation process must be completed within one month.</li>
 <li>Onsite training provided during installation process.</li>
 </ul>
-</wiki:comment>
