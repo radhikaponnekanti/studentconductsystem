@@ -58,8 +58,9 @@ e.g. “based on fields in the report, need specific data elements from the foll
 The need for securing the system to be developed should be stated in section including levels of access that can be granted
 e.g. “headquarters’ staff may have read only access the following specific data measures”
 
-=====Personnel Requirements=====
-The following table should contain a list of everyone who will play a role in the development of the system.		
+The data needs to be delivered securely over the web using SSL and the application must be secured and only available from behind the company firewall.
+
+There should also be several levels of access. Administrator, high level access to all information and functionality within the system. This access level would include delete functionality. Mid level access to most information and functionality within the system. Basic, low level access. Very limited access to the system, for example, only having the ability to create incident reports.
 		
 =====Support Requirements=====
 The following table should contain a list of everyone who will play a role in the ongoing maintenance of the system following implementation.
