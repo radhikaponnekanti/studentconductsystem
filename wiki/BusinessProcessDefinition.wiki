@@ -1,6 +1,5 @@
 <wiki:comment>Business process definition (Assignment #2 - due 9/20/2010)</wiki:comment>
 
-
 <h2>Business Process Definition and Requirements</h2>
 
 <h3>Table of Contents</h3>
@@ -44,20 +43,15 @@ http://mysite.verizon.net/jskar/after_chart.jpg
 
 =====Business Requirements=====
 e.g. “need to provide a 30 day turnaround from application to approval.”
+????????????????????
 
 =====System Requirements=====
-e.g. “24 by 7 system availability 6days per week”
-
-=====Reporting Requirements=====
-e.g. “Report to produce a count of new applications by state for each week by application type”
+The application must run on all standards compliant web browsers for all operating systems.
 
 =====Data Requirements=====
 e.g. “based on fields in the report, need specific data elements from the following data sources “
 
 =====Security Requirements=====
-The need for securing the system to be developed should be stated in section including levels of access that can be granted
-e.g. “headquarters’ staff may have read only access the following specific data measures”
-
 The data needs to be delivered securely over the web using SSL and the application must be secured and only available from behind the company firewall.
 
 There should also be several levels of access. Administrator, high level access to all information and functionality within the system. This access level would include delete functionality. Mid level access to most information and functionality within the system. Basic, low level access. Very limited access to the system, for example, only having the ability to create incident reports.
@@ -67,7 +61,6 @@ There should also be several levels of access. Administrator, high level access 
 Amy Skarzenski - Senior Developer and Tech Suppport
 Jimmy Williams - Senior Developer and Tech Suppport
 Abdulaziz Attaallah - Senior Developer and Tech Suppport
-
 
 ===2.3 Business Impact===
 By using a computer based system report handling will be much more efficient and conducive to all parties involved. The time it takes to process incident reports will be dramatically reduced, since the majority of time spent during processing is closely related to documentation handling. Furthermore, a system with increased accessibility and organization will enhance case reviewing procedures, scheduling, and sanction tracking updates.
