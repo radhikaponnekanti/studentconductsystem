@@ -50,7 +50,7 @@ e.g. “need to provide a 30 day turnaround from application to approval.”
 ????????????????????
 
 =====System Requirements=====
-The application must run on all standards compliant web browsers for all operating systems.
+The application must run on all standards compliant web browsers for all operating systems. System must also be available for use 24 hours a day, 7 days a week.  
 
 =====Data Requirements=====
 e.g. “based on fields in the report, need specific data elements from the following data sources “
