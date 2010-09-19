@@ -1,6 +1,6 @@
 <wiki:comment>Business process definition (Assignment #2 - due 9/20/2010)</wiki:comment>
 
-<wiki:comment>
+
 
 <h2>Business Process Definition and Requirements</h2>
 
@@ -53,7 +53,7 @@ e.g. “need to provide a 30 day turnaround from application to approval.”
 The application must run on all standards compliant web browsers for all operating systems. System must also be available for use 24 hours a day, 7 days a week.  
 
 =====Data Requirements=====
-Reflect the data collected on the current forms.
+All data collected on the current forms (i.e. incident location, date and time, students involved, charges, sanctions, fines, etc.).
 
 =====Security Requirements=====
 The data needs to be delivered securely over the web using SSL and the application must be secured and only available from behind the company firewall.
