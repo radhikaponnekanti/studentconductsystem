@@ -113,10 +113,10 @@ By using a computer based system report handling will be much more efficient and
 <hr>
 ==3.0 Assumptions==
 The following assumptions are essential to the previous business impact predictions.
-
 <ul>
-<li>User friendly interface.</li>
-<li>System is accessible outside the work place.</li>
+<li>Computers are available with internet access and a web browser</li>
+<li>The system has a user friendly interface</li>
+<li>The system is accessible outside the work place</li>
 </ul>
 
 <hr>
