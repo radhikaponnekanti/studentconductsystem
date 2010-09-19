@@ -1,6 +1,6 @@
 <wiki:comment>Business process definition (Assignment #2 - due 9/20/2010)</wiki:comment>
 
-<wiki:comment></wiki:comment>
+<wiki:comment>
 
 <h2>Business Process Definition and Requirements</h2>
 
@@ -131,4 +131,4 @@ The accuracy of records and update data depends upon the user's input.
 <li>Onsite training provided during installation process.</li>
 </ul>
 
-</wiki:comment></wiki:comment>
+</wiki:comment>
