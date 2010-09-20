@@ -1,7 +1,5 @@
 <wiki:comment>Business process definition (Assignment #2 - due 9/20/2010)</wiki:comment>
 
-<wiki:comment>
-
 <h2>Business Process Definition and Requirements</h2>
 
 <h3>Table of Contents</h3>
@@ -31,23 +29,17 @@ The disciplinary process at a college or university can be complex and many staf
 
 ====2.1.1 Existing or As Is Process Flow and Process Steps====
 
-http://mysite.verizon.net/jskar/before_flow.jpg
+http://studentconductsystem.googlecode.com/files/before_flow.jpg
 
-http://mysite.verizon.net/jskar/before_chart.jpg
+http://studentconductsystem.googlecode.com/files/before_chart.jpg
 
 ====2.1.2 Proposed or To Be Process Flow and Process Steps====
 
-http://mysite.verizon.net/jskar/after_flow.jpg
+http://studentconductsystem.googlecode.com/files/after_flow.jpg
 
-http://mysite.verizon.net/jskar/after_chart.jpg
+http://studentconductsystem.googlecode.com/files/after_chart.jpg
 
 ===2.2 New Process Requirements===
-
-<wiki:comment>
-=====Business Requirements=====
-e.g. “need to provide a 30 day turnaround from application to approval.”
-????????????????????
-</wiki:comment>
 
 =====System Requirements=====
 The application must run on all standards compliant web browsers for all operating systems. System must also be available for use 24 hours a day, 7 days a week.  
@@ -130,5 +122,3 @@ The accuracy of records and update data depends upon the user's input.
 <li>Installation process must be completed within one month.</li>
 <li>Onsite training provided during installation process.</li>
 </ul>
-
-</wiki:comment>
