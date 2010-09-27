@@ -17,3 +17,4 @@
    * [TeamSkill1 Team Skill 1: Analyzing the Problem]
      * [TeamSkill1#1._Gain_Agreement_on_Problem_Definition 1. Gain Agreement on Problem Definition]
         * [TeamSkill1#Problem_Definition Problem Definition]
+     * [TeamSkill1#2._Understand_Root_Causes_-_Problem_Behind_the_Problem 2. Understand Root Causes - Problem Behind the Problem]
