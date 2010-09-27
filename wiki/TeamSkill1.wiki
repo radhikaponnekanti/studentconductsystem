@@ -1,1 +1,175 @@
-== Team Skill 1: Analyzing the Problem ==
+
+
+==Team Skill 1: Analyzing the Problem==
+
+===1.0 Problem Definition===
+
+<table border="1" cellpadding="3" cellspacing="0">
+<tr><th width="175">_Element_</th><th>_Description_</th></tr>
+<tr>
+   <td>The problem of …</td>
+   <td>Lack of a consistent, universal, and organized method of communicating errors during the implementation and testing phases of software development.</td>
+</tr>
+<tr>
+   <td>Affects …</td>
+   <td>Company, employees, customers.</td>
+</tr>
+<tr>
+   <td>And results in …</td>
+   <td>
+The quality of the developed software is declining.
+
+Productivity is down.
+
+There is rising tension between team members.
+
+Sales are decreasing.
+
+</td>
+</tr>
+<tr>
+   <td>Benefits of a solution …</td>
+   <td>Creating a software solution for tracking errors will have many benefits. Those include:
+   <ul>
+   <li>Increased sales</li>
+   <li>Quality software released with less bugs</li>
+   <li> Quicker turnaround</li>
+   <li> A more comfortable working situation for employees.</li>
+   </ul>
+</td>
+</tr>
+</table>
+
+
+=== 2.0 Understanding the Root Causes ===
+
+====2.1 Fishbone Diagram of Root Causes ====
+http://error-tracking-system.googlecode.com/files/fishbone.jpg
+
+<hr>
+
+===3.0 Identifying the Stakeholders and Users ===
+====3.1 Stakeholders and Users of the Software Error Tracking System (SETS)====
+<table border="1" cellpadding="3" cellspacing="0">
+<tr><th>_Users_</th><th>_Other Stakeholders_</th></tr>
+<tr>
+   <td>Programmer/Analysts</td>
+   <td>CEO (Chief Executive Officer)</td>
+</tr>
+<tr>
+   <td>Testers</td>
+   <td>CFO (Chief Financial Officer)</td>
+</tr>
+<tr>
+   <td>Project Leaders</td>
+   <td>Customers</td>
+</tr>
+
+<tr>
+   <td>CIO (Chief Information Officer)</td>
+   <td></td>
+</tr>
+</table>
+
+<hr>
+
+===4.0 The Solution System Boundary ===
+====4.1 System Boundry Diagram====
+http://error-tracking-system.googlecode.com/files/system_boundaries.jpg
+
+====4.2 Actor Survey====
+
+<table border="1" cellpadding="3" cellspacing="0">
+<tr><th width="175">_Actors_</th><th>_Description_</th></tr>
+
+<tr>
+   <td>Project Leader</td>
+   <td>Review newly submitted errors and proposed or revised error solutions, allocate solution responsibilities to programmers, testers, and analysts.</td>
+</tr>
+<tr>
+   <td>Programmers/Analyst</td>
+   <td>Reference error documentation and submit solution proposals, error fixes, and revised solutions</td>
+</tr>
+<tr>
+   <td>Tester</td>
+   <td>Reference error documentation, submit test reports, error and solution confirmation, and review previous test sequences</td>
+</tr>
+<tr>
+   <td>CIO</td>
+   <td>Overseeing the deployment and information stream of the new system while monitoring how it affects business.</td>
+</tr>
+<tr>
+   <td>Email Server</td>
+   <td>Email server communicates with the system to deliver new error report notices and updates.</td>
+</tr>
+<tr>
+   <td>Database Server</td>
+   <td>Stores the error data.</td>
+</tr>
+</table>
+
+====4.3 Non-Actor Survey (Other Stakeholders)====
+
+<table border="1" cellpadding="3" cellspacing="0">
+<tr><th width="175">_Stakeholder_</th><th>_Description_</th></tr>
+<tr>
+   <td>CEO</td>
+   <td>Works with the CIO and CFO and oversees business decisions concerning the system.</td>
+</tr>
+
+<tr>
+   <td>CFO</td>
+   <td>Works with the project leader to ensure the project stays under budget.</td>
+</tr>
+
+<tr>
+   <td>Customer</td>
+   <td>Purchases software produced by the client.</td>
+</tr>
+</table>
+
+<hr>
+
+===5.0 Constraints to be Imposed on the Solution ===
+
+====5.1 Constraint sources Identified by the SETS team====
+<table border="1" cellpadding="3" cellspacing="0">
+
+<tr><th width="175">_Source_</th><th>_Description_</th><th>_Rationale_</th></tr>
+
+<tr>
+   <td>Operations</td>
+   <td>System must be server based.</td>
+   <td>Information must be accessible from a variety of locations in and out of the office.</td>
+</tr>
+
+<tr>
+   <td>Communicative Technology</td>
+   <td>Email must be main source of communicating error posts and other pertinent information pertaining to system results</td>     
+   <td>Employees are working from computers most of the day and email has proven to be the most consistent form of communication within the company</td>
+</tr>
+
+<tr>
+   <td>System</td>
+   <td>The end product must be light weight, but maintaining key functionality.</td>
+  <td>Employees use their computers as work stations and can not be interrupted with machine lag.</td>
+</tr>
+<tr>
+   <td>Technological Compatibility</td>
+   <td> Software must be compatible with Linux, Unix, Windows XP up to the latest version (compatible with all browsers)</td>
+  <td>All employees use one of the listed operating systems within their workstation and all are needed for specific types of testing.</td>
+</tr>
+
+<tr>
+   <td>System Budget</td>
+   <td> The product must be developed within the company's set project budget.</td>
+   <td>If the cost is too high company will attempt to develop the software themselves</td>
+</tr>
+
+<tr>
+   <td>Employee Approval</td>
+   <td>Employees will test the product three months into production.</td>
+   <td>This product is for the worker to help improve work relations and communication. If the employees do not approve the system, the product will not be bought by the company.</td>
+</tr>
+</table>
+</wiki:comment>
