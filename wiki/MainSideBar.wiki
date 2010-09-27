@@ -18,3 +18,7 @@
      * [TeamSkill1#1._Gain_Agreement_on_Problem_Definition 1. Gain Agreement on Problem Definition]
         * [TeamSkill1#Problem_Definition Problem Definition]
      * [TeamSkill1#2._Understand_Root_Causes_-_Problem_Behind_the_Problem 2. Understand Root Causes - Problem Behind the Problem]
+     * [TeamSkill1#3._Identify_Stakeholders_and_Users 3. Identify Stakeholders and Users]
+     * [TeamSkill1#4._Define_the_Solution_System_Boundary 4. Define the Solution System Boundary]
+        * [TeamSkill1#System_Block_Diagram System Block Diagram]
+     * [TeamSkill1#5._Identify_the_Constraints_to_be_Imposed_on_the_Solution 5. Identify  the Constraints to be Imposed on the Solution]
