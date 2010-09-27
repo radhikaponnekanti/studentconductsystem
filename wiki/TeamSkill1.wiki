@@ -1,2 +1,8 @@
-
 ==Team Skill 1: Analyzing the Problem==
+
+The five steps in problem analysis are:
+  # Gain agreement on problem definition
+  # Understand the root caused - problem behind the problem
+  # Indentify stakeholders and users
+  # Define the solution system boundary
+  # Understand the constraints to be imposed on the solution
