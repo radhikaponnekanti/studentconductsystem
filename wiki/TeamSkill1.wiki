@@ -21,3 +21,10 @@ http://studentconductsystem.googlecode.com/files/PD_STUDENTS.jpg
 ===2. Understand Root Causes - Problem Behind the Problem===
 Using fishbone diagram, we can identify the critical problems.
 http://studentconductsystem.googlecode.com/files/Root%20cause.jpg
+
+===3. Identify Stakeholders and Users===
+
+===4. define the Solution System Boundary===
+====System Block Diagram====
+The Student Conduct Information System and the external systems that interact with each other are as shown in the following system block diagram.
+http://studentconductsystem.googlecode.com/files/System_Block_Diagram.jpg
