@@ -1,13 +1,15 @@
+#summary Analyzing the Problem
+<wiki:toc max_depth='5'/>
 ==Team Skill 1: Analyzing the Problem==
 
 The five steps in problem analysis are:
   # Gain agreement on problem definition
-  # Understand the root caused - problem behind the problem
+  # Understand the root causes - problem behind the problem
   # Indentify stakeholders and users
   # Define the solution system boundary
   # Understand the constraints to be imposed on the solution
 
-===Gain Agreement on Problem Definition===
+===1. Gain Agreement on Problem Definition===
 ====Problem Definition====
 With the different groups of stakeholders, there are two different problems.
   * In the perspective of administration department
@@ -15,3 +17,7 @@ With the different groups of stakeholders, there are two different problems.
 
 http://studentconductsystem.googlecode.com/files/PD_ADMIN.jpg
 http://studentconductsystem.googlecode.com/files/PD_STUDENTS.jpg
+
+===2. Understand Root Causes - Problem Behind the Problem===
+Using fishbone diagram, we can identify the critical problems.
+http://studentconductsystem.googlecode.com/files/Root%20cause.jpg
