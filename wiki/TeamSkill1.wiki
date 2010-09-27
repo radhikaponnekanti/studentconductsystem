@@ -6,3 +6,12 @@ The five steps in problem analysis are:
   # Indentify stakeholders and users
   # Define the solution system boundary
   # Understand the constraints to be imposed on the solution
+
+===Gain Agreement on Problem Definition===
+====Problem Definition====
+With the different groups of stakeholders, there are two different problems.
+  * In the perspective of administration department
+  * In the perspective of students
+
+http://studentconductsystem.googlecode.com/files/PD_ADMIN.jpg
+http://studentconductsystem.googlecode.com/files/PD_STUDENTS.jpg
