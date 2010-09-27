@@ -32,3 +32,6 @@ http://studentconductsystem.googlecode.com/files/Actor_survey.jpg
 ====System Block Diagram====
 The Student Conduct Information System and the external systems that interact with each other are as shown in the following system block diagram.
 http://studentconductsystem.googlecode.com/files/System_Block_Diagram.jpg
+
+===5. Identify the Constraints to be Imposed on the Solution===
+http://studentconductsystem.googlecode.com/files/Constraints.jpg
