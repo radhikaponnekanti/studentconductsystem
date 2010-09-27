@@ -23,8 +23,12 @@ Using fishbone diagram, we can identify the critical problems.
 http://studentconductsystem.googlecode.com/files/Root%20cause.jpg
 
 ===3. Identify Stakeholders and Users===
+The following stakeholders and actors are identified.
 
-===4. define the Solution System Boundary===
+http://studentconductsystem.googlecode.com/files/Stakeholder_survey.jpg
+http://studentconductsystem.googlecode.com/files/Actor_survey.jpg
+
+===4. Define the Solution System Boundary===
 ====System Block Diagram====
 The Student Conduct Information System and the external systems that interact with each other are as shown in the following system block diagram.
 http://studentconductsystem.googlecode.com/files/System_Block_Diagram.jpg
