@@ -11,19 +11,19 @@ One of the most important and most straightforward requirements gathering techni
 In the interview session, the following quiestions are discussed:
 
  * What is the existing problem?
-   # Manually handling the details of the incidents and cases
-   # Too much of paper work
-   # Time consuming process
+   * Manually handling the details of the incidents and cases
+   * Too much of paper work
+   * Time consuming process
 
  * How to solve this problem?
-   By establishing a web-based application where all the data related to the incidents is maintained and handled
+   * By establishing a web-based application where all the data related to the incidents is maintained and handled
 
  * Who will be the users of this system?
-   Students and administration staff
+   * Students and administration staff
 
  * What are the technical requirements?
-   The system should be able to work on all browsers and operating systems
+   * The system should be able to work on all browsers and operating systems
 
  * What are the other constraints?
-   # System should be available 24X7
-   # System should be ready in one month
+   * System should be available 24X7
+   * System should be ready in one month
