@@ -11,4 +11,4 @@ One of the most important and most straightforward requirements gathering techni
 In the interview session, the following quiestions are discussed:
 
  # What is the existing problem?
-   * 
+ * 
