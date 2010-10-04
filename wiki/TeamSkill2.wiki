@@ -20,3 +20,10 @@ In the interview session, the following quiestions are discussed:
 
  * Who will be the users of this system?
    Students and administration staff
+
+ * What are the technical requirements?
+   The system should be able to work on all browsers and operating systems
+
+ * What are the other constraints?
+   # System should be available 24X7
+   # System should be ready in one month
