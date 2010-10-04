@@ -16,4 +16,7 @@ In the interview session, the following quiestions are discussed:
    # Time consuming process
 
  * How to solve this problem?
-   By establishing a web-based application where all the data related to the incidents is maintained and handled 
+   By establishing a web-based application where all the data related to the incidents is maintained and handled
+
+ * Who will be the users of this system?
+students and administration staff
