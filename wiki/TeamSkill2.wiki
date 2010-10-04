@@ -4,4 +4,11 @@
 
 ==Team Skill2: Understanding the User and Stakeholder Needs==
 
-One of the most important and most straightforward requirements gathering techniques is the user interview. It is simple and direct technique that can be used in virtually every situation. 
+===Interviewing==
+
+One of the most important and most straightforward requirements gathering techniques is the user interview. It is simple and direct technique that can be used in virtually every situation.
+
+In the interview session, the following quiestions are discussed:
+
+ # What is the existing problem?
+   * 
