@@ -21,6 +21,14 @@ In the interview session, the following quiestions are discussed:
  * Who will be the users of this system?
    * Students and administration staff
 
+ * What are the business requirements?
+   * Completely paperless system 
+   * The system needs to be accessible from anywhere at anytime 
+   * The data in the system needs to be secure 
+   * The data in the system needs to be stored in a central location 
+   * Ability to create and track incidents 
+   * Ability to create and track cases through adjudication(charges, sanctions, appeals) 
+
  * What are the technical requirements?
    * The system should be able to work on all browsers and operating systems
 
