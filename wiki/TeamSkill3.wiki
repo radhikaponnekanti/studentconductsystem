@@ -1,5 +1,0 @@
-#summary Defining the System - Vision Document
-
-<wiki:toc max_depth="3" />
-
-==Team Skill 3: Defining the System - Vision Document==
