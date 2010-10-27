@@ -1,4 +1,5 @@
 #summary Defining the System - Vision Document
 
-=TeamSkill3: Defining the System - Vision Document=
 <wiki:toc max_depth="3" />
+
+==TeamSkill3: Defining the System - Vision Document==
