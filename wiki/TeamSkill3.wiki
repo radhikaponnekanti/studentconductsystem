@@ -2,4 +2,4 @@
 
 <wiki:toc max_depth="3" />
 
-==TeamSkill3: Defining the System - Vision Document==
+==Team Skill 3: Defining the System - Vision Document==
