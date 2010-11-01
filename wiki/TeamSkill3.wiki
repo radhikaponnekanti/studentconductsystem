@@ -56,8 +56,6 @@ This system will be a web-based application. Hence, the only environmental consi
  * Calender integration
  * Must be reliable
 
-===2.5 Alternative and Competition===
-
 ==3. Product Overview==
 ===3.1 Product Perspective===
 
