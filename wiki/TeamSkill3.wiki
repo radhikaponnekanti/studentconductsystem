@@ -1,0 +1,20 @@
+#summary Defining the System - Vision Document
+
+<wiki:toc max_depth="3" />
+
+=Team Skill 3: Defining the System - Vision Document=
+
+==Introduction==
+
+===Purpose of Vision Document===
+This vision document explains the features and user needs of the Student Conduct Information System.
+
+===Product Overview===
+The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication. 
+The disciplinary process at a college or university can be complex and many staff members are involved. The main objective of this system is to provide a comprehensive workflow designed to facilitate communication of infractions and reduce paperwork. In the end, the users should be spending less time on administration and more time on making student and academic life better.
+
+===References===
+This document references the following:
+  * http://code.google.com/p/studentconductsystem/wiki/BusinessProcessDefinition#Business_Process_Definition_and_Requirements Business Process Definition and Requirements
+  * http://code.google.com/p/studentconductsystem/wiki/TeamSkill1 Team Skill 1
+  * http://code.google.com/p/studentconductsystem/wiki/TeamSkill2 Team Skill 2
