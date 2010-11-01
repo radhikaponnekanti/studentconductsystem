@@ -48,7 +48,7 @@
         * [TeamSkill3#4.5_Stability 4.5 Stability]
         * [TeamSkill3#4.6_Target_Release 4.6 Target Release]
         * [TeamSkill3#4.7_Assigned_To 4.7 Assigned To]
-     * [TeamSlill3#5._Product_Features 5. Product Features]
+     * [TeamSkill3#5._Product_Features 5. Product Features]
      * [TeamSkill3#6._Exemplary_Use_Cases 6. Exemplary Use Cases]
      * [TeamSkill3#7._Other_Product_Requirements 7. Other Product Requirements]
         * [TeamSkill3#7.1_Applicable_Standards 7.1 Applicable Standards]
