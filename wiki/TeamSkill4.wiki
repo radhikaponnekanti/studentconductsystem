@@ -2,7 +2,7 @@
 
 <wiki:toc max_depth="3" />
 
-=Team Skill 5: Managing the Scope=
+=Team Skill 4: Managing the Scope=
 
 ==Scope Management==
 
