@@ -26,3 +26,4 @@
      * [TeamSkill2#Interviewing Interviewing]
   * [TeamSkill3#Team_Skill_3:_Defining_the_System_-_Vision_Document Team Skill 3: Defining the System - Vision Document]
      * [TeamSkill3#1._Introduction 1. Introduction]
+        * [TeamSkill3#1.1_Purpose_of_Vision_Document 1.1 Purpose of Vision Document]
