@@ -24,3 +24,4 @@
      * [TeamSkill1#5._Identify_the_Constraints_to_be_Imposed_on_the_Solution 5. Identify  the Constraints to be Imposed on the Solution]
   * [TeamSkill2 Team Skill2: Understanding the User and Stakeholder Needs]
      * [TeamSkill2#Interviewing Interviewing]
+  * [TeamSkill3#Team_Skill_3:_Defining_the_System_-_Vision_Document Defining the System - Vision Document]
