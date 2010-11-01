@@ -15,6 +15,6 @@ The disciplinary process at a college or university can be complex and many staf
 
 ===References===
 This document references the following:
-  * BusinessProcessDefinition#Business_Process_Definition_and_Requirements Business Process Definition and Requirements
-  * [http://code.google.com/p/studentconductsystem/wiki/TeamSkill1] Team Skill 1
-  * http://code.google.com/p/studentconductsystem/wiki/TeamSkill2 Team Skill 2
+  * BusinessProcessDefinition
+  * TeamSkill1
+  * TeamSkill2
