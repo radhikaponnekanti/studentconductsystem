@@ -59,3 +59,4 @@
         * [TeamSkill3#8.1_User_Manual 8.1 User Manual]
         * [TeamSkill3#8.2_Online_Help 8.2 Online Help]
   * [TeamSkill4#Team_Skill_4:_Managing_the_Scope Team Skill 4: Managing the Scope]
+     * [TeamSkill4#Scope_Management Scope Management]
