@@ -157,7 +157,6 @@ The system allows to take printouts wherever necessary.
 ==6. Exemplary Use Cases==
 
 http://studentconductsystem.googlecode.com/files/TS3%20UC.jpg
-
 http://studentconductsystem.googlecode.com/files/TS3-UC2.jpg
 
 ==7. Other Product Requirements==
