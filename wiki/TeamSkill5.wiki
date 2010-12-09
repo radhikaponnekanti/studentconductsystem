@@ -1,0 +1,46 @@
+#summary Refining the System Definition
+
+<wiki:toc max_depth="3" />
+
+=Team Skill 5: Refining the System Defnition=
+
+==Student Conduct Information System Use Cases==
+
+====Use Case: Submit Incident Report====
+http://studentconductsystem.googlecode.com/files/TS5%20UC.jpg
+====Use Case: Assign Adjudicator====
+http://studentconductsystem.googlecode.com/files/TS5-UC2.jpg
+====Use Case: Track Case====
+http://studentconductsystem.googlecode.com/files/TS5-UC3.jpg
+
+==System Supplementary Specification==
+
+===1. Introduction===
+
+====1.1 Purpose====
+
+The purpose of this Supplementary Specification is to document all functional and nonfunctional requirements, as well as design constraints for the current release of Student Conduct Information System that could not be defined in the use-case model.
+
+====1.2 Scope====
+
+This specification covers the Student Conduct Information System application as well as the database that stores all the data for the system.
+
+====1.3 References====
+
+[http://code.google.com/p/studentconductsystem/wiki/TeamSkill3?ts=1291867663&updated=TeamSkill3#Team_Skill_3:_Defining_the_System_-_Vision_Document Vision Document]
+
+[http://code.google.com/p/studentconductsystem/wiki/TeamSkill2#Team_Skill2:_Understanding_the_User_and_Stakeholder_Needs Team Skill2: Understanding User ans Stakeholder Needs]
+
+===2. Functional Requirements===
+
+*SR1:* Completely paperless system 
+
+*SR2:* The system needs to be accessible from anywhere at anytime 
+
+*SR3:* The data in the system needs to be secure 
+
+*SR4:* The data in the system needs to be stored in a central location 
+
+*SR5:* Supported on all standards compliant web browsers, specifically, Microsoft Internet Explorer, Firefox, and Safari.
+
+===3. Usability===
