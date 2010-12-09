@@ -1,6 +1,6 @@
 #summary Understanding the User and Stakeholder Needs
 
-<wiki:toc max_depth='5'/>
+<wiki:toc max_depth='3'/>
 
 ==Team Skill2: Understanding the User and Stakeholder Needs==
 
