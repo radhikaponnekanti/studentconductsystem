@@ -31,7 +31,7 @@ This specification covers the Student Conduct Information System application as 
 
 [http://code.google.com/p/studentconductsystem/wiki/TeamSkill2#Team_Skill2:_Understanding_the_User_and_Stakeholder_Needs Team Skill2: Understanding User ans Stakeholder Needs]
 
-===2. Functional Requirements===
+===2. Functionality===
 
 *SR1:* Completely paperless system 
 
@@ -44,3 +44,99 @@ This specification covers the Student Conduct Information System application as 
 *SR5:* Supported on all standards compliant web browsers, specifically, Microsoft Internet Explorer, Firefox, and Safari.
 
 ===3. Usability===
+
+*SR6:* 1- or 2- day initial training will be conducted.
+
+*SR7:* Online help and index will be available for further reference.
+
+===4. Reliability===
+
+*SR8:* System will be available 24 hours a day and 7 days a week.
+
+*SR9:* The initial Mean Time Between Failures for the system should be over 48 hours. This time must double every month there after for 1 year.
+
+*SR10:* The Mean Time To Repair must always be less than 12 hours.
+
+*SR11:* Even if the system fails, it will be recovered back up within an hour or less. 
+
+*SR12:* There shall be routine redundant data backups of all user information. This shall be made available at all times.
+
+===5. Performance===
+
+*SR13:* Searches for cases and incidents should be carried out in less than 10 seconds.
+
+*SR14:* System must be able to store at least 10 tera bytes of data.
+
+*SR15:* System must be able to store at least 1,000,000 cases and incidents.
+
+===6. Supportability===
+
+*SR16:* Multiple access levels must be provided.
+
+*SR17:* Links to online help and other user documentation should be available.
+
+===7. Design Constraints===
+
+*SR18:* Three-tier architecture should be followed.
+
+*SR19:* System should be developed using ASP.Net and SQL Server.
+
+*SR20:* The system's interface has to follow the usability standards such as having a main navigator on the system's pages.
+
+===8. User Documentation and Help System Requirements===
+
+*SR21:* A hard copy of a user manual should be delivered.
+
+*SR22:* A web page with online help should be provided.
+
+===9. Purchases Components===
+
+*SR23:* All software used for creating and maintaining the must be purchased at retail price, and/or have an active license.
+
+*SR24:* SSL Certificate
+
+===10. Interfaces===
+
+====10.1 User Interfaces====
+
+*SR25:* The system must have an easy to use graphical user interface that utilizes all of the standard browser elements. For example, drop down list, multiple select lists, text boxes, text areas, etc.
+
+====10.2 Software Interfaces====
+
+*SR26:* Database Access: System must be able to access and manipulate the database server.
+
+*SR27:* Email Connectivity: System must be able to interact with the existing email server, using its available functionality.
+
+====10.3 Communications Interfaces====
+
+*SR28:* All network traffic to and from the system must be delivered through a combination of HTTP and SSL protocols, providing encrypted communication.
+
+===11. Licensing and Security Requirements===
+
+*SR29:* The Student Conduct Information System must be exclusive to the school use and non-distributable.
+
+*SR30:* Notices must be sent to all the students and administration staff, containing the modifications of the previously agreed to terms and conditions contract.
+
+===12. Legal, Copyright, and Other Notices===
+
+*SR31:* All code, help documentation (online and paper), and user interfaces must contain the copyright "Copyright 2010. All rights reserved." 
+
+===13. Applicable Standards===
+
+*SR32:* Communication Standards: Transmission Control Protocol/Internet Protocol 
+
+*SR33:* Platform Compliance Standards: Windows, Linux, Unix, and Mac OS X 
+
+===14. Internationalization and Localization===
+
+None 
+
+===15. Physical Deliverables===
+
+*SR34:* A hard copy of the users manual must be available. 
+
+===16. Installation and Deployment===
+
+*SR35:* Installation guide must outline the step by step procedures for installing a web browser on all the different, standard workstations. 
+
+*SR36:* Installation instructions for each web browser will be provided to the installation team.
