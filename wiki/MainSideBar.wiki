@@ -63,4 +63,3 @@
        * [TeamSkill4#Prioritized_Features_List_with_Efforts_and_Risk_Estimates Prioritized Features List with Efforts and Risk Estimates]
        * [TeamSkill4#Baseline_Features_for_Current_Version Baseline Features for Current Version]
   * [TeamSkill5#Team_Skill_5:_Refining_the_System_Defnition Team Skill 5: Refining the System Defnition]
-     *[TeamSkill5#Student_Conduct_Information_System_Use_Cases Student Conduct Information System Use Cases]
