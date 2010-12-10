@@ -44,6 +44,6 @@ This test set is used to test instances of the *Submit Incident Report* use case
 
 http://studentconductsystem.googlecode.com/files/Flow.jpg
 
-====Identified Scenarios====
+===Identified Scenarios===
 
 http://studentconductsystem.googlecode.com/files/Scenario.jpg
