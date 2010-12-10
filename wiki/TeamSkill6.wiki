@@ -26,24 +26,26 @@ This test set is used to test instances of the *Submit Incident Report* use case
 ===Identified Flows===
 
  * *Basic Flow:* User fills in all required fields and non required fields with valid inputs and clicks the Submit button
- * *Alternative Flow 1:* User fills in all required fields and non required fields with valid inputs and clicks the Save button
- * *Alternative Flow 2:* User fills in all required fields and non required fields with valid inputs and clicks the Reset button
- * *Alternative Flow 3:* User fills in all required fields and non required fields with valid inputs and clicks the Cancel button
- * *Alternative Flow 4:* User does not fill in all required fields and clicks the Submit button
- * *Alternative Flow 5:* User does not fill in all required fields and clicks the Save button
- * *Alternative Flow 6:* User does not fill in all required fields and clicks the Reset button
- * *Alternative Flow 7:* User does not fill in all required fields and clicks the Cancel button
- * *Alternative Flow 8:* User does not fill in all non-required fields and clicks the Submit button
- * *Alternative Flow 9:* User does not fill in all non-required fields and clicks the Save button
- * *Alternative Flow 10:* User does not fill in all non-required fields and clicks the Reset button
- * *Alternative Flow 11:* User does not fill in all non-required fields and clicks the Cancel button
- * *Alternative Flow 12:* User enters invalid input and clicks Submit button
- * *Alternative Flow 13:* User enters invalid input and clicks Save button
- * *Alternative Flow 14:* User enters invalid input and clicks Reset button
- * *Alternative Flow 15:* User enters invalid input and clicks Cancel button
+ * *Alternate Flow 1:* User fills in all required fields and non required fields with valid inputs and clicks the Save button
+ * *Alternate Flow 2:* User fills in all required fields and non required fields with valid inputs and clicks the Reset button
+ * *Alternate Flow 3:* User fills in all required fields and non required fields with valid inputs and clicks the Cancel button
+ * *Alternate Flow 4:* User does not fill in all required fields and clicks the Submit button
+ * *Alternate Flow 5:* User does not fill in all required fields and clicks the Save button
+ * *Alternate Flow 6:* User does not fill in all required fields and clicks the Reset button
+ * *Alternate Flow 7:* User does not fill in all required fields and clicks the Cancel button
+ * *Alternate Flow 8:* User does not fill in all non-required fields and clicks the Submit button
+ * *Alternate Flow 9:* User does not fill in all non-required fields and clicks the Save button
+ * *Alternate Flow 10:* User does not fill in all non-required fields and clicks the Reset button
+ * *Alternate Flow 11:* User does not fill in all non-required fields and clicks the Cancel button
+ * *Alternate Flow 12:* User enters invalid input and clicks Submit button
+ * *Alternate Flow 13:* User enters invalid input and clicks Save button
+ * *Alternate Flow 14:* User enters invalid input and clicks Reset button
+ * *Alternate Flow 15:* User enters invalid input and clicks Cancel button
 
 http://studentconductsystem.googlecode.com/files/Flow.jpg
 
 ===Identified Scenarios===
 
 http://studentconductsystem.googlecode.com/files/Scenario.jpg
+
+*_Note:_* Not all feasible scenarios are covered, though all alternate flows are traversed and several general combinations are chosen.
