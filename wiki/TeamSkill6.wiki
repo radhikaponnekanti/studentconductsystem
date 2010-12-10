@@ -49,3 +49,7 @@ http://studentconductsystem.googlecode.com/files/Flow.jpg
 http://studentconductsystem.googlecode.com/files/Scenario.jpg
 
 *_Note:_* Not all feasible scenarios are covered, though all alternate flows are traversed and several general combinations are chosen.
+
+===Variables Used to Realize Scenarios===
+
+http://studentconductsystem.googlecode.com/files/TS6%20-%20V.jpg
