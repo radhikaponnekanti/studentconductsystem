@@ -65,4 +65,11 @@
    * [TeamSkill5 Team Skill 5: Refining the System Definition]
      * [TeamSkill5#Student_Conduct_Information_System_Use_Cases Student Conduct Information System Use Cases]
      * [TeamSkill5#System_Supplementary_Specification System Supplementary Specification]
+       * [TeamSkill5#1._Introduction 1. Introduction]
+       * [TeamSkill5#2._Functionality 2. Functionality]
+       * [TeamSkill5#3._Usability 3. Usability]
+       * [TeamSkill5#4._Reliability 4. Reliability]
+       * [TeamSkill5#5._Performance 5. Performance]
+       * [TeamSkill5#6._Supportability 6. Supportability]
    * [TeamSkill6 Team Skill 6: Building the Right System]
+    
