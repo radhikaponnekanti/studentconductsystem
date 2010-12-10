@@ -46,10 +46,14 @@ http://studentconductsystem.googlecode.com/files/Flow.jpg
 
 ===Identified Scenarios===
 
-http://studentconductsystem.googlecode.com/files/Scenario.jpg
+http://studentconductsystem.googlecode.com/files/Scenarios.jpg
 
 *_Note:_* Not all feasible scenarios are covered, though all alternate flows are traversed and several general combinations are chosen.
 
 ===Variables Used to Realize Scenarios===
 
 http://studentconductsystem.googlecode.com/files/TS6%20-%20V.jpg
+
+===Test Cases===
+
+Test cases are generated based on flow path and variable options. All variable options are used at least once and all scenarios are realized.
