@@ -87,4 +87,3 @@
        * [TeamSkill6#Fields_and_Buttons_Included_on_Submit_Incident_Report_Screen Fields and Buttons Included on Submit Incident Report Screen]
        * [TeamSkill6#Identified_Flows Identified Flows]
        * [TeamSkill6#Identified_Scenarios Identified Scenarios]
-       * []
