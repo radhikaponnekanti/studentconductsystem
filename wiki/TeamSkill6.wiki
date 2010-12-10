@@ -25,18 +25,18 @@ This test set is used to test instances of the *Submit Incident Report* use case
 
  * *Basic Flow:* User fills in all required fields and optional fields with valid inputs and clicks the Submit button
  * *Alternate Flow 1:* User fills in all required fields and optional fields with valid inputs and clicks the Save button
- * *Alternate Flow 2:* User fills in only required fields and clicks the Submit button
- * *Alternate Flow 3:* User fills in only required fields and clicks the Save button
- * *Alternate Flow 4:* User fills in only non-required fields and clicks the Submit button
- * *Alternate Flow 5:* User fills in only non-required fields and clicks the Save button
+ * *Alternate Flow 2:* User does not fill in all required fields and clicks the Submit button
+ * *Alternate Flow 3:* User does not fill in all required fields and clicks the Save button
+ * *Alternate Flow 4:* User does not fill in all optional fields and clicks the Submit button
+ * *Alternate Flow 5:* User does not fill in all optional fields and clicks the Save button
  * *Alternate Flow 6:* User enters invalid input and clicks Submit button
  * *Alternate Flow 7:* User enters invalid input and clicks Save button
 
-http://studentconductsystem.googlecode.com/files/Flow1.jpg
+http://studentconductsystem.googlecode.com/files/Flow10.jpg
 
 ===Identified Scenarios===
 
-http://studentconductsystem.googlecode.com/files/Scene.jpg
+http://studentconductsystem.googlecode.com/files/Scenes.jpg
 
 *_Note:_* Not all feasible scenarios are covered, though all alternate flows are traversed and several general combinations are chosen.
 
@@ -46,4 +46,6 @@ http://studentconductsystem.googlecode.com/files/TS6-Var.jpg
 
 ===Test Cases===
 
-Test cases are generated based on flow path and variable options. All variable options are used at least once and all scenarios are realized.
+Test cases are generated based on flow path and variable options. All variable options are used at least once and most of the scenarios are realized.
+
+http://studentconductsystem.googlecode.com/files/TS6-TC.jpg
