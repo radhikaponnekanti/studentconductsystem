@@ -41,3 +41,9 @@ This test set is used to test instances of the *Submit Incident Report* use case
  * *Alternative Flow 13:* User enters invalid input and clicks Save button
  * *Alternative Flow 14:* User enters invalid input and clicks Reset button
  * *Alternative Flow 15:* User enters invalid input and clicks Cancel button
+
+http://studentconductsystem.googlecode.com/files/Flow.jpg
+
+====Identified Scenarios====
+
+http://studentconductsystem.googlecode.com/files/Scenario.jpg
