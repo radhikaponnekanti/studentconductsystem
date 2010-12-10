@@ -88,3 +88,4 @@
        * [TeamSkill6#Identified_Flows Identified Flows]
        * [TeamSkill6#Identified_Scenarios Identified Scenarios]
        * [TeamSkill6#Variables_Used_to_Realize_Scenarios Variables Used to Realize Scenarios]
+       * [TeamSkill6#Test_Cases Test Cases]
