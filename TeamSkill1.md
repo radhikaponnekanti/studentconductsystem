@@ -1,0 +1,36 @@
+
+## Team Skill 1: Analyzing the Problem ##
+
+The five steps in problem analysis are:
+  1. Gain agreement on problem definition
+  1. Understand the root causes - problem behind the problem
+  1. Indentify stakeholders and users
+  1. Define the solution system boundary
+  1. Understand the constraints to be imposed on the solution
+
+### 1. Gain Agreement on Problem Definition ###
+#### Problem Definition ####
+With the different groups of stakeholders, there are two different problems.
+  * In the perspective of administration department
+  * In the perspective of students
+
+![http://studentconductsystem.googlecode.com/files/PD_ADMIN.jpg](http://studentconductsystem.googlecode.com/files/PD_ADMIN.jpg)
+![http://studentconductsystem.googlecode.com/files/PD_STUDENTS.jpg](http://studentconductsystem.googlecode.com/files/PD_STUDENTS.jpg)
+
+### 2. Understand Root Causes - Problem Behind the Problem ###
+Using fishbone diagram, we can identify the critical problems.
+![http://studentconductsystem.googlecode.com/files/Root%20cause.jpg](http://studentconductsystem.googlecode.com/files/Root%20cause.jpg)
+
+### 3. Identify Stakeholders and Users ###
+The following stakeholders and actors are identified.
+
+![http://studentconductsystem.googlecode.com/files/Stakeholder_survey.jpg](http://studentconductsystem.googlecode.com/files/Stakeholder_survey.jpg)
+![http://studentconductsystem.googlecode.com/files/Actor_survey.jpg](http://studentconductsystem.googlecode.com/files/Actor_survey.jpg)
+
+### 4. Define the Solution System Boundary ###
+#### System Block Diagram ####
+The Student Conduct Information System and the external systems that interact with each other are as shown in the following system block diagram.
+![http://studentconductsystem.googlecode.com/files/System_Block_Diagram.jpg](http://studentconductsystem.googlecode.com/files/System_Block_Diagram.jpg)
+
+### 5. Identify the Constraints to be Imposed on the Solution ###
+![http://studentconductsystem.googlecode.com/files/Constraints.jpg](http://studentconductsystem.googlecode.com/files/Constraints.jpg)

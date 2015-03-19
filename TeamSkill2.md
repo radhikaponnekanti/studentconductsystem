@@ -1,0 +1,35 @@
+
+
+## Team Skill2: Understanding the User and Stakeholder Needs ##
+
+### Interviewing ###
+
+One of the most important and most straightforward requirements gathering techniques is the user interview. It is simple and direct technique that can be used in virtually every situation.
+
+In the interview session, the following quiestions are discussed:
+
+  * What is the problem in the existing system?
+    * Manually handling the details of the incidents and cases
+    * Too much of paper work
+    * Time consuming process
+
+  * How to solve this problem?
+    * By establishing a web-based application where all the data related to the incidents is maintained and handled
+
+  * Who will be the users of this system?
+    * Students and administration staff
+
+  * What are the business requirements?
+    * Completely paperless system
+    * The system needs to be accessible from anywhere at anytime
+    * The data in the system needs to be secure
+    * The data in the system needs to be stored in a central location
+    * Ability to create and track incidents
+    * Ability to create and track cases through adjudication(charges, sanctions, appeals)
+
+  * What are the technical requirements?
+    * The system should be able to work on all browsers and operating systems
+
+  * What are the other constraints?
+    * System should be available 24X7
+    * System should be ready in one month

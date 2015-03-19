@@ -1,0 +1,189 @@
+
+
+# Team Skill 3: Defining the System - Vision Document #
+
+## 1. Introduction ##
+
+### 1.1 Purpose of Vision Document ###
+This vision document explains the features and user needs of the Student Conduct Information System.
+
+### 1.2 Product Overview ###
+The Student Conduct Information System will allow users to track student conduct from incident report to case, through adjudication.
+The disciplinary process at a college or university can be complex and many staff members are involved. The main objective of this system is to provide a comprehensive workflow designed to facilitate communication of infractions and reduce paperwork. In the end, the users should be spending less time on administration and more time on making student and academic life better.
+
+### 1.3 References ###
+This document references the following:
+  * BusinessProcessDefinition
+  * TeamSkill1
+  * TeamSkill2
+
+## 2. User Description ##
+The general user needs are described here.
+
+### 2.1 User/Market Demographics ###
+The users of the Student Conduct Information System are the students and the staff of the administration department.
+
+### 2.2 User Profiles ###
+It is assumed that all users of the Student Conduct Information System have basic computer skills needed to use the system. However, basic training of the system is preferred to get familiar with the system.
+
+The following table describes the basic responsibilities and technical backgrounds of the users of the system.
+
+![http://studentconductsystem.googlecode.com/files/TS3Table1.jpg](http://studentconductsystem.googlecode.com/files/TS3Table1.jpg)
+
+### 2.3 User Environment ###
+This system will be a web-based application. Hence, the only environmental considerations are the available ways of accessing the web page. Any web browser will be sufficient for both students and the administration staff.
+
+### 2.4 Key User Needs ###
+
+#### From Student Perspective ####
+  * Ability to submit an incident report
+  * Ability to track the submitted incident report
+  * Ability to track the cases
+
+#### From Administration Staff Perspective ####
+  * Ability to review the submitted incident report
+  * Ability to track the incident reports
+  * Ability to track the cases
+  * Ability to track the punishments
+
+#### Other Needs ####
+  * Web-based application
+  * User-friendly interface
+  * Easy to use
+  * E-mail notifications
+  * Calender integration
+  * Must be reliable
+
+## 3. Product Overview ##
+### 3.1 Product Perspective ###
+
+The Student Conduct Information System interacts with cases database.
+
+![http://studentconductsystem.googlecode.com/files/TS3Fig1.jpg](http://studentconductsystem.googlecode.com/files/TS3Fig1.jpg)
+
+### 3.2 Product Position Statement ###
+
+![http://studentconductsystem.googlecode.com/files/TS3Table2.jpg](http://studentconductsystem.googlecode.com/files/TS3Table2.jpg)
+
+### 3.3 Summary of Capabilities ###
+
+The capabilities of the system refers to the features listed in the Team Skill2.The capabilities will be designed and developed according to the priority decided in the requirement workshop. We are also keen to discuss the same with our stakeholders to finalize the capabilities and decide on the iteration phases for each requirement.
+
+To summarize, we have the following capabilities our product will be able to perform.
+
+Student Conduct Information System will have capabilities like handling the details of the incident reports and cases.
+
+### 3.4 Assumptions and Dependencies ###
+
+#### Assumptions ####
+
+As a development team, legal and regulatory regulations are not considered. It is assumed that all the hardware requirements are taken care of by the stakeholders.
+
+#### Dependencies ####
+
+Each phase is completed with an acceptance test by the stakeholders. The dependency on hardware requirements is to be considered by the stakeholders.
+
+### 3.5 Cost and Pricing ###
+
+The team consisting of marketing executives and system analysts will analyze cost and pricing of the product. The cost of softwares purchased for interfacing, cost of wages to develop the product will be considered for the pricing. The factors of considered for calculation of cost are number of employees working on the project, number of hours covered in terms of effort, various taxes, supporting software tools cost etc . The approximate price to build the product is mentioned to the stakeholders verbally. The document tracking the expense and budget will be produced soon once the requirement capture is completed.
+
+## 4. Feature Attributes ##
+
+### 4.1 Status ###
+
+A shared folder is maintained a common and secure server to highlight the status of the project. The folder is accessible to privileged people in both developer and stakeholder team. Here all the requirement documents are maintained.
+
+### 4.2 Priority ###
+
+The priority features analyzed in the team skill2 and all the baseline requirements will be developed.
+
+### 4.3 Effort ###
+
+The development team is responsible to maintain a time sheet for each team member working in the project to put in the number of hours he/she worked.
+
+### 4.4 Risk ###
+
+The risk (if any) in developing each feature for the project is analyzed and documented.
+
+### 4.5 Stability ###
+
+Features are stable and any change in requirement from the stakeholder will be considered as enhancements. The stable and clear set of requirements are considered for the release in the first phase and ambiguous requirements are investigated more and taken in next phases.
+
+### 4.6 Target Release ###
+
+Release of phase 1 is likely to take 2 months i.e. phase 1 should be ready for acceptance test by December.
+
+### 4.7 Assigned To ###
+
+The requirements analyzed are handed over to the software team to start the elaboration phase for all the requirements that are feasible and clear in requirement statement.
+
+## 5. Product Features ##
+
+#### Online Incident report submission ####
+The system enables the students to submit an incident report online.
+
+#### Incident conversion ####
+The incident report is converted into an incident after the reviewer reviews it.
+
+#### Case Conversion ####
+The incident is converted into a case by the reviewer.
+
+#### Adjudicator Assignment ####
+The case is assigned to an adjudicator by the reviewer.
+
+#### Sanctions Assignment ####
+The adjudicator assigns sanctions to the students and records the information into the system.
+
+#### Fees Details ####
+The fees and restitution paid by the students is recorded into the system.
+
+#### Case is Closed ####
+After the case is closed, the case is marked as closed in the system.
+
+#### E-mail Notifications ####
+During the process, all the e-mails are sent to the concerned students time-to-time.
+
+#### User-Friendly Interactive Screen ####
+The interface will be user-friendly and easy to use.
+
+#### Retrieving the Old Case Details and Incident Reports ####
+The system will be able to retrieve the previous details of a particular case, incident or a student.
+
+#### Printout Facility ####
+The system allows to take printouts wherever necessary.
+
+## 6. Exemplary Use Cases ##
+
+![http://studentconductsystem.googlecode.com/files/TS3%20UC.jpg](http://studentconductsystem.googlecode.com/files/TS3%20UC.jpg)
+![http://studentconductsystem.googlecode.com/files/TS3-UC2.jpg](http://studentconductsystem.googlecode.com/files/TS3-UC2.jpg)
+![http://studentconductsystem.googlecode.com/files/TS3-UC3.jpg](http://studentconductsystem.googlecode.com/files/TS3-UC3.jpg)
+
+## 7. Other Product Requirements ##
+
+### 7.1 Applicable Standards ###
+
+**Communication Standards:** Transmission Control Protocol/Internet Protocol
+**Platform Compliance Standards:** Windows, Linux, Unix
+
+### 7.2 System Requirements ###
+
+  * Must be installed on Linux, Unix, Windows XP up to the latest version
+  * Must run on all standards compliant web browsers
+
+### 7.3 Licensing and Installation ###
+
+License must be given by the development team. Installation of the product is neccesary.
+
+### 7.4 Performance Requirements ###
+
+The system should be user-friendly and should be available throughout the day at anytime.
+
+## 8. Documentation Requirements ##
+
+### 8.1 User Manual ###
+
+The user manual's primary purpose will be to reference system functionality. Written tutorials will be available for general system use, as well as examples discussing particular scenarios that have been identified as common paths within a use case. The heart of the manual will consist of a well structured index, pointing to all system features, instructing the user on how to implement system capabilities. The manual will be detailed and concise
+
+### 8.2 Online Help ###
+
+A web page will be provided as help.
